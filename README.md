@@ -11,7 +11,7 @@ Before you begin, make sure you have a basic understanding of terminal commands.
 
 ## Installation and Setup
 
-Follow the steps in this section to set up your Jenkins and Docker environment. Clone this repository to get started.
+Follow the steps in this section to set up your Jenkins and Docker environment.
 
 
 
