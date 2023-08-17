@@ -1,7 +1,5 @@
 # Git_Flow_CI-CD_Guide
 
-# Git_Flow_CI-CD_Guide
-
 # GitFlow: Ngrok, Jenkins & Docker CI/CD Guide
 
 This guide provides step-by-step instructions for setting up an automated CI/CD workflow using Jenkins and Docker from a local host. It covers the integration of ngrok for webhook testing and provides a comprehensive walkthrough of the entire process.
@@ -21,9 +19,6 @@ Follow the steps in this section to set up your Jenkins and Docker environment. 
 
 Integrate ngrok and GitHub webhooks for testing and automation. Test your setup by triggering webhook events.
 
-## Troubleshooting
-
-Find solutions to common issues that you might encounter during the setup process.
 
 ## Contributing
 
